@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on my ideology " One for all "
 - 📫 How to reach me on twitter @mikefucx1...
 
- ## " No gods or kings. Only man. " ##
+ # " No gods or kings. Only man. " #
 
 <!---
 Mikefucx/Mikefucx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
